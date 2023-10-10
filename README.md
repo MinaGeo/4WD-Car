@@ -1,0 +1,1 @@
+In this project I will control a 4WD car to make certain types of requirements. To implement this 4WD car I used 4 LEDs (LED1, LED2, LED3, LED4), 4 Motors (M1, M2, M3, M4), and 2 Buttons. One button (PB1) is used to start the 4WD car and follow the required states, while the other button (PB2) is used to immediately stop the car.
